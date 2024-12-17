@@ -1,7 +1,8 @@
 # Automation of Data Scraping
 
 ## Description  
-This project automates the process of data scraping, risk evaluation, notification, and reporting for a company facing potential data exposure incidents. The script performs the following tasks:  
+This project was developed as the final assignment for my "Programming for Networking and Cybersecurity" class. 
+It automates critical processes such as data scraping, risk evaluation, notification, and reporting to help a company manage potential data exposure incidents effectively. The script performs the following key tasks:
 
 ### 1. Scrape Employee Data (Web Scraping)  
 The `scrape_employee_data` function:  
